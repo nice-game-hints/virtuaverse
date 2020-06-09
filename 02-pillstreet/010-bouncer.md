@@ -18,7 +18,7 @@ Yeah. Pizza would make his day.
 There is a terminal in the Main Street. Order him a pizza.
 
 # How?
-First, you need [a credit card](/01-apartment/02-drawer.md).
+First, you need [a credit card](/01-apartment/03-drawer.md).
 
 # I have the credit card
 Second, you need the shop's address ^[Look at the address sign at the Backstreet.].
