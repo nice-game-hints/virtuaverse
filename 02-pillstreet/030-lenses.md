@@ -36,4 +36,4 @@ With the dumpster. [The same dumpster the restaurant uses.](040-restaurant.md)
 While he is going through the trash, put the cartridge on top of his pile of cartridges.
 
 # Far out!
-Now you can get the lenses from the dumpster.
+Now you can get the glasses from the dumpster.
