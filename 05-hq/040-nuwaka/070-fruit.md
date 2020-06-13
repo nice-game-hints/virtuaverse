@@ -2,7 +2,13 @@
 title: Getting the fruit
 ---
 
-There is a special fruit in the tree at the are you get [after you pass the wasp's nest](040-wasp-nest.md).
+There is a special fruit in the tree at the hill behind the waterfall you get to [after you pass the wasp's nest](040-wasp-nest.md).
 
-# How to get it?
-[TBD](tbd)
+# How to get the fruit from the tree?
+The kannonn kid is the key here.
+
+# Okay?
+Try to [get access to his laser toy](100-laserman.md).
+
+# I did it
+Then just use the kannonn. Pick up the fruit.
