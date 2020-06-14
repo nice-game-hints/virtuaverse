@@ -3,10 +3,10 @@ title: Passing the Sphynx
 keywords: eye, mirror, sphynx, bot
 ---
 
-The Sphynx is blocking your way with her laser eye.
+The Sphynx is blocking your way with its laser eye.
 
 # What to do?
-Maybe you could shoot her back!
+Maybe you could shoot it back!
 
 # How?
 Like, mirroring the laser?
