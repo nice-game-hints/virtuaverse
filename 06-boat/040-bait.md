@@ -13,3 +13,7 @@ Refeshing, ain't it? Given that you have already visited [the missile base](010-
 
 # What?
 [Fish](060-fish.md), [shrimp](070-shrimp.md) and [crab](080-crab.md).
+
+# I have those
+Then, make [a fishing tool](090-fishing-tool.md) and attach the baits (fish, shrimp can and the crab) onto it.
+
