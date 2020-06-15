@@ -5,7 +5,7 @@ title: The Sushi Restaurant
 There is the nice sushi restaurant at the Alley.
 
 # What there?
-That Silent Chap. We should mes with him a little.
+That Silent Chap. We should mess with him a little.
 
 # Mess with him?
 Yeah! Make him angry.

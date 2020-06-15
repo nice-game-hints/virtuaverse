@@ -3,7 +3,7 @@ title: Getting out of the apartment
 keywords: code, balcony
 ---
 
-Your balcony acts as an exit also.
+Your balcony acts as an exit also. It works by you entering your code into it.
 
 # The code is changed
 Jay has changed the code. You need the reset code.
