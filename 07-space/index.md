@@ -1,5 +1,5 @@
 ---
-title: The space station
+title: The Space Station
 ---
 
 This is it. Shut down the Xenon.

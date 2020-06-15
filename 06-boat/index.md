@@ -1,5 +1,5 @@
 ---
-title: The boat
+title: The Boat
 ---
 
 You have to find the missile base. Luckily the boat is equipped with an submersible.
