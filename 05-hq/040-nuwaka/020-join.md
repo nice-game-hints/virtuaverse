@@ -11,4 +11,4 @@ Have you talked to the Preacher?
 Then you should be a member now...
 
 # Oh, yes
-Now, [just register yourself](020-register.md).
+Now, [just register yourself](030-register.md).

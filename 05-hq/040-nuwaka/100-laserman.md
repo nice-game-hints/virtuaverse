@@ -21,7 +21,7 @@ Well, the _real_ one has:
  - [the shield](120-shield.md)
  - [and the suit is not that color](130-color.md)
 
-^[ To know what they look like, look at [the comic](110-magazine.md) ]
+To know what they look like, look at [the comic](../035-magazine.md)
 
 # It is ready
 So the figurine is now black and the shield is attached to it? Great. Give it to the kid.

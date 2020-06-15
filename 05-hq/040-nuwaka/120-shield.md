@@ -9,7 +9,7 @@ The Laserman 3000V action figure is missing its shield.
 Maybe the wood artis would carve it a new shield. Talk to her. She can build you anything if you have a plan for it.
 
 # A plan?
-Look at [the comic](110-magazine.md) for reference. So, first look at the comic in your inventory and _then_ talk to the wood artis.
+Look at [the comic](../035-magazine.md) for reference. So, first look at the comic in your inventory and _then_ talk to the wood artis.
 
 # She needs...
 ...a 3d model? Such handcraft!
