@@ -24,4 +24,4 @@ You have to use the extra jumper you get from your workbench at your home.
 
 Click once on Jumper B, twice on Jumper A and once on Jumper 4.
 
-![Drone 75Mhz](drone75mhz.png)
+![Drone 75Mhz](drone200mhz.png)
