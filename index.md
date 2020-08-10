@@ -1,6 +1,7 @@
 ---
 title: VirtuaVerse
 author: Juho Rutila
+released: 2020-06-15
 praise: https://www.buymeacoffee.com/jrutila
 ---
 
