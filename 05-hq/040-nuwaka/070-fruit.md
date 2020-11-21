@@ -11,4 +11,4 @@ The kannonn kid is the key here.
 Try to [get access to his laser toy](100-laserman.md).
 
 # I did it
-Then just use the kannonn. Pick up the fruit.
+Then just use the kannonn ^[ Visit the fruit first so that you know that you can shoot it. ]. Go pick up the fruit.
