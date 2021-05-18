@@ -4,6 +4,7 @@ author: Juho Rutila
 released: 2020-06-15
 keywords: virtuaverse, scifi, cyberpunk
 praise: https://www.buymeacoffee.com/jrutila
+praiseModal: h10
 ---
 
 This is the gradual, spoiler-free, hint system for VirtuaVerse.
